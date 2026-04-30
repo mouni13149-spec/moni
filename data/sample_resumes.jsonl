@@ -1,0 +1,6 @@
+{"candidate_id":"r001","text":"Machine learning engineer with 4 years building NLP ranking systems in Python and PyTorch. Designed batch inference jobs on AWS and evaluated recommendation quality with recruiter feedback.","skills":["Python","machine learning","NLP","PyTorch","AWS","ranking systems","model evaluation"],"years_experience":4}
+{"candidate_id":"r002","text":"Backend engineer with 5 years of Java and SQL experience. Built internal APIs and reporting services for enterprise systems.","skills":["Java","SQL","APIs"],"years_experience":5}
+{"candidate_id":"r003","text":"Data scientist focused on resume parsing, transformer models, LoRA fine-tuning, and ranking experiments. Writes Python pipelines and model evaluation dashboards.","skills":["Python","NLP","LoRA","model evaluation","SQL"],"years_experience":3}
+{"candidate_id":"r004","text":"Frontend developer with React, TypeScript, design systems, accessibility, and analytics instrumentation experience.","skills":["React","TypeScript","accessibility"],"years_experience":4}
+{"candidate_id":"r005","text":"Applied ML engineer who built high-throughput batch inference services, candidate matching models, SQL feature stores, and AWS deployment automation.","skills":["Python","machine learning","SQL","AWS","batch inference"],"years_experience":6}
+

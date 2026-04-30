@@ -1,0 +1,8 @@
+{
+  "title": "Machine Learning Engineer, Ranking",
+  "description": "Build machine learning systems for candidate ranking, natural language processing, batch inference, model evaluation, and recruiter-facing recommendations. The role uses Python, PyTorch, SQL, AWS, and experiment design.",
+  "required_skills": ["Python", "machine learning", "NLP", "SQL", "model evaluation"],
+  "preferred_skills": ["PyTorch", "AWS", "ranking systems", "LoRA"],
+  "years_experience": 3
+}
+
